@@ -1,2 +1,7 @@
 # build directory with specific executable file
 build
+
+# debug tasks
+launch.json
+settings.json
+tasks.json
